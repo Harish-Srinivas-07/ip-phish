@@ -11,7 +11,9 @@ Welcome to the world of ip Phish! 🎭 This script is a proof of concept that sh
 - [QR Code Generation](#qr-code-generation-)
 
 Example Tracker url : `https://iplogger.com/2CNpF5`
+
 Masked Website : `www.google.com-free-job-2023-google-JoinToday-E mployeeOffice-Official@is.gd/6JjPdo`
+
 Admin Dashboard for above Tracker : `https://iplogger.org/logger/JvMd45LRCsij/`
 
 
