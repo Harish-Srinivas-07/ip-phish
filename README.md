@@ -10,9 +10,6 @@ Welcome to the world of ip Phish! 🎭 This script is a proof of concept that sh
 - [Smart Data Getter](#smart-data-getter-)
 - [QR Code Generation](#qr-code-generation-)
 
-## IP-Phish 🔥
-
-Ip-Phish is not just another phishing tool. It's a proof of concept showcasing "URL Making Technology." This simple Bash Script allows you to hide a phishing URL under a seemingly normal URL, such as google.com or facebook.com. It can be integrated into phishing tools (with proper credits) to make the URL appear legitimate.
 
 ## Legal Disclaimer ⚖️
 
@@ -52,10 +49,10 @@ pip install requests
 
 ## Smart Data Getter 🧠
 
-The script includes a "Smart Data Getter" that retrieves information from the phishing dashboard.
+The script includes a "Smart Data Getter" that retrieves information from the phishing dashboard, Getting the Location Screen details battery percentage of whoever clicking.
 
 ## QR Code Generation 📷
 
 The script generates a QR code for easy sharing of the fake website URL.
 
-Enjoy experimenting with MaskPhish and remember to use it responsibly! 🎣🎣🎣
+Enjoy experimenting with Ip-Phish and remember to use it responsibly! 🎣🎣🎣
