@@ -41,6 +41,7 @@ pip install requests
 6. Generate a QR code for the fake website URL.
 
 7. The script will open the phishing dashboard in your default web browser.
+   `https://iplogger.org/logger/{tracking_id}/`
 
    - **Social Engineering Words**: The script will prompt you to enter social engineering words (e.g., free-money, best-pubg-tricks) to mask the phishing URL.
    - **Public Recognized Domain**: You can choose a publicly recognized domain (e.g., www.google.com) to mask the URL.
@@ -51,7 +52,29 @@ pip install requests
 
 ## Smart Data Getter 🧠
 
-The script includes a "Smart Data Getter" that retrieves information from the phishing dashboard, Getting the Location Screen details battery percentage of whoever clicking.
+MaskPhish's "Smart Data Getter" can extract a range of user information, including:
+
+- **Device Sensors**: Detect accelerometer and gyroscope presence.
+
+- **Payment Methods**: Check Apple Pay and Google Pay support.
+
+- **Audio/Video Devices**: List available devices.
+
+- **Battery Percentage**: Monitor the battery level.
+
+- **Screen Details**: Retrieve screen resolution.
+
+- **Network Information**: Get connection speed and type.
+
+- **Browser Details**: Detect browser, version, and user-agent.
+
+- **Location**: Collect approximate user location.
+
+- **Geographical Data**: IP, country, city, and more.
+
+- **Fingerprint**: Generate a unique device identifier.
+
+Please use this feature responsibly and respect user privacy. Always follow legal and ethical guidelines.
 
 ## QR Code Generation 📷
 
