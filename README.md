@@ -10,8 +10,8 @@ Welcome to the world of ip Phish! 🎭 This script is a proof of concept that sh
 - [Smart Data Getter](#smart-data-getter-)
 - [QR Code Generation](#qr-code-generation-)
 
-Example Tracker url : ```https://iplogger.com/2CNpF5```
-Masked Website : `www.google.com-free-job-2023-google-JoinToday-E mployeeOffice-Official@is.gd/6JjPdo`
+Example Tracker url : ```https://iplogger.com/2CNpF5```\n
+Masked Website : `www.google.com-free-job-2023-google-JoinToday-EmployeeOffice-Official@is.gd/6JjPdo`
 
 Admin Dashboard for above Tracker : `https://iplogger.org/logger/JvMd45LRCsij/`
 
