@@ -10,10 +10,12 @@ Welcome to the world of ip Phish! 🎭 This script is a proof of concept that sh
 - [Smart Data Getter](#smart-data-getter-)
 - [QR Code Generation](#qr-code-generation-)
 
-Example Tracker url : ```https://iplogger.com/2CNpF5```\n
-Masked Website : `www.google.com-free-job-2023-google-JoinToday-EmployeeOffice-Official@is.gd/6JjPdo`
+Example Tracker URL: [https://iplogger.com/2CNpF5](https://iplogger.com/2CNpF5)
 
-Admin Dashboard for above Tracker : `https://iplogger.org/logger/JvMd45LRCsij/`
+Masked Website: `www.google.com-free-job-2023-google-JoinToday-EmployeeOffice-Official@is.gd/6JjPdo`
+
+Admin Dashboard for the Above Tracker: [https://iplogger.org/logger/JvMd45LRCsij/](https://iplogger.org/logger/JvMd45LRCsij/)
+
 
 
 ## Legal Disclaimer ⚖️
@@ -88,9 +90,12 @@ The script generates a QR code for easy sharing of the fake website URL.
 Enjoy experimenting with Ip-Phish and remember to use it responsibly! 🎣🎣🎣
 
 ## Showcase
-Example Tracker url : `https://iplogger.com/2CNpF5`
-Masked Website : `www.google.com-free-job-2023-google-JoinToday-E mployeeOffice-Official@is.gd/6JjPdo`
-Admin Dashboard for above Tracker : `https://iplogger.org/logger/JvMd45LRCsij/`
+Example Tracker URL: [https://iplogger.com/2CNpF5](https://iplogger.com/2CNpF5)
+
+Masked Website: `www.google.com-free-job-2023-google-JoinToday-EmployeeOffice-Official@is.gd/6JjPdo`
+
+Admin Dashboard for the Above Tracker: [https://iplogger.org/logger/JvMd45LRCsij/](https://iplogger.org/logger/JvMd45LRCsij/)
+
 
 ![image](https://github.com/Harish-Srinivas-07/ip-phish/assets/114596900/15f1a1c8-82d8-4818-ac27-4ed1dc78b42a)
 
