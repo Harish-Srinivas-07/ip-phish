@@ -43,7 +43,9 @@ pip install requests
 7. The script will open the phishing dashboard in your default web browser.
 
    - **Social Engineering Words**: The script will prompt you to enter social engineering words (e.g., free-money, best-pubg-tricks) to mask the phishing URL.
-   - **Public Recognized Domain**: You can choose a publicly recognized domain (e.g., www.google.com) to mask the URL. The final phishing link will look like this: `www.google.com-free-money@is.gd/shortened-link`.
+   - **Public Recognized Domain**: You can choose a publicly recognized domain (e.g., www.google.com) to mask the URL.
+   - The final phishing link will look like this:
+     `www.google.com-free-money@is.gd/shortened-link`.
 
 **Please remember to use this tool responsibly and only for educational purposes.**
 
