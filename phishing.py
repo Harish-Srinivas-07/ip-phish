@@ -144,7 +144,7 @@ shorter = short.replace("https://", "")
 final = f"{mask}-{words}@{shorter}"
 
 print("---------------------------------------------------------------\nThe phishing url generated share this :\n\n",final,"\n---------------------------------------------------------------")
-qr_url="qr url  :"+final
+qr_url=final
 qr.add_data(qr_url)
 qr.make(fit=True)
 print("Display Fake website qr code and redirecting to dashboard")
